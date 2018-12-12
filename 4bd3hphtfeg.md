@@ -6,4 +6,5 @@ library(hopach)
 data(golub)
 
 
+
 ```
