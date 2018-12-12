@@ -1,5 +1,5 @@
 ```
-# Acquire the Golub data from Bioconductor
+# Acquire the Golub data from bioconductor
 source("http://www.bioconductor.org/biocLite.R")
 biocLite(c("hopach"))
 library(hopach)
