@@ -1,5 +1,4 @@
 ```
 library(multtest)
-data
-
+data(golub)
 ```
