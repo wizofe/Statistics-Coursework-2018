@@ -1,4 +1,4 @@
-```R
+```
 library(multtest)
 
 
