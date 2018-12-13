@@ -12,6 +12,6 @@ sd_sample_mean <- function(k, m, s) {
     sample_mean[i] <- mean(e[[i]])
   }
   
-  return(sample_mean)
+  return(sdsample_mean)
 }
 ```
