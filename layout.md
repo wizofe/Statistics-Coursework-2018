@@ -1,6 +1,8 @@
 untitled.html
 4bd3hphtfeg.md
 49n70crp79g.html
+c68nppkemr8.tex
+ghntgfb8ks8.html
 fcb0e2nm2mg.html
 n0q8b46ddr.md
 figures/rplot_bar_1
