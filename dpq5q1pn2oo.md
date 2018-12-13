@@ -13,4 +13,5 @@ sd_sample_mean <- function(k, m, s) {
   }
   
   return(sample_mean)
-}```
+}
+```
