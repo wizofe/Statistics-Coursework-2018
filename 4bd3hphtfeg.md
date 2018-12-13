@@ -8,6 +8,7 @@ data(golub)
 # find where the tc4 is
 tc4 = grep("Ras-Like Protein Tc4", golub.gnames[, 2], ignore.case = TRUE)
 golubFactor <- factor(golub.cl, levels=0:1, labels = c("ALL","AML"))
+
 golub[tc4,golubFactor == "ALL"]
 
 ```
