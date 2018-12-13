@@ -5,7 +5,6 @@ biocLite(c("hopach"))
 library(hopach)
 data(golub)
 
-#
 # 
 
 ```
