@@ -1,3 +1,3 @@
 ```
-plot()
+plot(sample_code)
 ```
