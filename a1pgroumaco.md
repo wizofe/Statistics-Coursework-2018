@@ -1,5 +1,5 @@
 ```
-#
+# number of samples
 nsampl = 1000
 
 e <- vector("list", nsampl)
