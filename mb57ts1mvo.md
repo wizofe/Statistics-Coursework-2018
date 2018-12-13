@@ -1,3 +1,3 @@
 ```
-t.test(golub[tc4, ] ~ golubFactor, var.equal = FALSE)$p.val
+t.test(golub[tc4, ] ~ golubFactor, var.equal = FALSE)$p.value
 ```
