@@ -12,5 +12,4 @@ sample_mean = rep(NA, nsampl)
 for (i in 1:nsampl) {
   sample_mean[i] <- mean(e[[i]])
 }
-
 ```
