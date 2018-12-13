@@ -1,12 +1,14 @@
 ```
-# 1. Store random samples in a list
-e <- vector("list", nrSamples) 
-for (i in 1:nrSamples) {
-  e[[i]] <- rnorm(n = 5, mean = 5, sd = 3)
+nsampl = 1000
+
+e <- vector("list", nsampl)
+for (i in 1:nsampl) {
+  e[[i]] <- rnorm(n = 20, mean = 10, sd = 5)
 }
 
-sample_means = rep(NA, nrSamples)
-for (i in 1:nrSamples){
+sample_means = rep(NA, nsampl)
+for (i in 1:nsampl) {
   sample_means[i] <- mean(e[[i]])
 }
+
 ```
