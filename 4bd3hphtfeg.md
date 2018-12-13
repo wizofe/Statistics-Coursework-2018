@@ -14,5 +14,4 @@ golubFactor <- factor(golub.cl,
 
 # side by side boxplot for AML and ALL
 boxplot(golub[tc4,] ~ golubFactor, ylim = c(0, 2))
-
 ```
