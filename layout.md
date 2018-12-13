@@ -8,6 +8,7 @@ figures/rplot_bar_1
 bs74uaomkro.html
 mb57ts1mvo.md
 nb11mpl54s.html
+kg1qn3v2dr8.html
 a1pgroumaco.md
 27gjt2r05bo.html
 59ohd9fa27g.html
