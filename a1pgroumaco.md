@@ -1,6 +1,7 @@
 ```
 nsampl = 1000
 
+#
 e <- vector("list", nsampl)
 for (i in 1:nsampl) {
   e[[i]] <- rnorm(n = 20, mean = 10, sd = 5)
