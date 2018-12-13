@@ -11,5 +11,4 @@ sample_mean <- matrix(NA, 1000, 1)
 for (i in 1:1000) {
   sample_mean[i] <- mean(e[[i]])
 }
-
 ```
