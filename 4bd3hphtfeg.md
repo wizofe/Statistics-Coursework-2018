@@ -5,6 +5,6 @@ biocLite(c("hopach"))
 library(hopach)
 data(golub)
 
-# 
+# find where the tc4 
 
 ```
