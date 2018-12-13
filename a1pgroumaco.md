@@ -13,5 +13,5 @@ for (i in 1:nsampl) {
   sample_mean[i] <- mean(e[[i]])
 }
 
-
+#
 ```
