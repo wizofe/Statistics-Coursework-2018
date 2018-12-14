@@ -3,7 +3,7 @@ w <-
   boot(
     data = wildtype,
     statistic = function(x, i)
-      median(knockout[i]),
+      median(wildyyp[i]),
     R = 10000
   )
 
