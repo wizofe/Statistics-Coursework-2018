@@ -1,7 +1,7 @@
 ```
 w <-
   boot(
-    data = knockout,
+    data = wildtype,
     statistic = function(x, i)
       median(knockout[i]),
     R = 10000
