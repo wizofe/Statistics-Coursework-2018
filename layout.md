@@ -24,6 +24,7 @@ n3kgiaibm3g.md
 erdfsubvf78.html
 udrfk311q4.md
 d34iskh184.html
+figures/rplot_knockout_2
 uqgk5dib52.md
 ljo3463nbp8.html
 jgfuh6pqdpg.md
