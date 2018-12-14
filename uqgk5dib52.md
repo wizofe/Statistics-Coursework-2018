@@ -1,5 +1,5 @@
 ```
-a <- boot(data = ,statistic = function(x,i) median(wildtype[i]),R = 10000)
+a <- boot(data = knocka,statistic = function(x,i) median(wildtype[i]),R = 10000)
 
 # calculate the 95% confidence
 boot.ci(a,
