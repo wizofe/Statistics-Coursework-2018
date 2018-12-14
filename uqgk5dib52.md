@@ -1,5 +1,5 @@
 ```
- <-
+k <-
   boot(
     data = knockout,
     statistic = function(x, i)
