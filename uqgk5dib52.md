@@ -7,7 +7,7 @@ k <-
     R = 10000
   )
 
-plto
+plot(k)
 # calculate the 95% confidence
 boot.ci(k,
         conf = 0.95,
