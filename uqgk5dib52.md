@@ -6,3 +6,4 @@ boot.ci(a,
         conf = 0.95,
         type = c("norm", "basic", "perc", "bca"))
 ```
+
