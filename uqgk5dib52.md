@@ -8,7 +8,7 @@ k <-
   )
 
 # calculate the 95% confidence
-boot.ci(a,
+boot.ci(k,
         conf = 0.95,
         type = c("norm", "basic", "perc", "bca"))
 ```
