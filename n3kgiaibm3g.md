@@ -10,6 +10,7 @@ w <-
     R = 10000
   )
 
+
 # calculate the 95% confidence
 boot.ci(w,
         conf = 0.95,
