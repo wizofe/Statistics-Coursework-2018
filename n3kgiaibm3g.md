@@ -1,5 +1,5 @@
 ```
-library()
+library(b)
 w <-
   boot(
     data = wildtype,
