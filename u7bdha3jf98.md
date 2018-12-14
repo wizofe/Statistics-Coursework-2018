@@ -12,4 +12,5 @@ Level      Normal              Basic
 
 Level     Percentile            BCa          
 95%   ( 611.5, 1626.0 )   ( 589.0, 1626.0 )  
-Calculations and Intervals on Original Scale```
+Calculations and Intervals on Original Scale
+```
