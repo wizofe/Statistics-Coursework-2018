@@ -22,7 +22,6 @@ wildtype <-
     65,
     1571
   )
-# knockout
 knockout <-
   c(
     589,
