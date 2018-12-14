@@ -1,5 +1,6 @@
 ```
 library(boot)
+
 w <-
   boot(
     data = wildtype,
