@@ -1,5 +1,5 @@
 ```
-# wildtype
+# 
 wildtype <-
   c(
     560,
