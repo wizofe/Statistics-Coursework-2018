@@ -1,5 +1,5 @@
 ```
-# import the 
+# import the
 library(boot)
 
 w <-
