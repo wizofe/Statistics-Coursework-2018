@@ -1,5 +1,5 @@
 ```
-# import the
+# import bo
 library(boot)
 
 w <-
