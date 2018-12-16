@@ -2,7 +2,7 @@
 > BOOTSTRAP CONFIDENCE INTERVAL CALCULATIONS
 > Based on 10000 bootstrap replicates
 
-CALL : 
+> CALL : 
 boot.ci(boot.out = k, conf = 0.95, type = "perc")
 
 Intervals : 
