@@ -2,7 +2,7 @@
 sd_sample_mean <- function(k, m, s) {
   nsampl = 1000
 
-  # e the mean of the samples
+  # e contains the mean of the samples
   e <- vector("list", nsampl)
   sample_mean = rep(NA, nsampl)
   
