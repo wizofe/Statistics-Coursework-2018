@@ -2,7 +2,7 @@
 sd_sample_mean <- function(k, m, s) {
   nsampl = 1000
   for (i in 1:nsampl) {
-    e[[i]] <- rnorm(n = k, mean = m, sd = s)
+    
   }
   
   # store the mean of the samples
