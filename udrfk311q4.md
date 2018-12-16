@@ -1,6 +1,6 @@
 ```
 > BOOTSTRAP CONFIDENCE INTERVAL CALCULATIONS
-Based on 10000 bootstrap replicates
+ >Based on 10000 bootstrap replicates
 
 CALL : 
 boot.ci(boot.out = w, conf = 0.95, type = "perc", main = "Histogram of wildtype")
