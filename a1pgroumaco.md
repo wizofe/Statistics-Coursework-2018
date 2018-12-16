@@ -2,7 +2,6 @@
 nsampl = 1000
 
 # e stores the randomly generated samples
-
 e <- vector("list", nsampl)
 sample_mean = rep(NA, nsampl)
 
