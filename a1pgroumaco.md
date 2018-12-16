@@ -1,7 +1,7 @@
 ```
 nsampl = 1000
 
-# store the randomly generated samples
+# e stores the randomly generated samples
 # and store the mean of the samples
 
 e <- vector("list", nsampl)
