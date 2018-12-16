@@ -7,6 +7,6 @@
 
 > Intervals : 
 > Level     Percentile     
-95%   ( 611.5, 1626.0 )  
+> 95%   ( 611.5, 1626.0 )  
 > Calculations and Intervals on Original Scale
 ```
