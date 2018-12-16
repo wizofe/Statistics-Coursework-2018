@@ -9,5 +9,4 @@ Intervals :
 Level       BCa          
 95%   ( 589, 1590 )  
 Calculations and Intervals on Original Scale
-
 ```
