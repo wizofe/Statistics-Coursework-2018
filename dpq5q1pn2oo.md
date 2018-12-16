@@ -1,9 +1,7 @@
 ```
 sd_sample_mean <- function(k, m, s) {
   nsampl = 1000
-  for (i in 1:nsampl) {
-    
-  }
+
   
   # store the mean of the samples
   e <- vector("list", nsampl)
