@@ -3,7 +3,7 @@
 > Based on 10000 bootstrap replicates
 
 > CALL : 
-boot.ci(boot.out = k, conf = 0.95, type = "perc")
+> boot.ci(boot.out = k, conf = 0.95, type = "perc")
 
 Intervals : 
 Level     Percentile     
