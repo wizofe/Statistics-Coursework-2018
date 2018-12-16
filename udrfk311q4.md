@@ -8,5 +8,5 @@
 >Intervals : 
 > Level     Percentile     
 > 95%   ( 980, 2078 )  
-Calculations and Intervals on Original Scale
+> Calculations and Intervals on Original Scale
 ```
