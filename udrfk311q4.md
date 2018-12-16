@@ -3,10 +3,10 @@ BOOTSTRAP CONFIDENCE INTERVAL CALCULATIONS
 Based on 10000 bootstrap replicates
 
 CALL : 
-boot.ci(boot.out = w, type = "bca")
+boot.ci(boot.out = w, conf = 0.95, type = "perc", main = "Histogram of wildtype")
 
 Intervals : 
-Level       BCa          
-95%   ( 968, 2037 )  
+Level     Percentile     
+95%   ( 980, 2078 )  
 Calculations and Intervals on Original Scale
 ```
