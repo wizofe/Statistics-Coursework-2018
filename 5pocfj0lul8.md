@@ -6,7 +6,6 @@ bootstrap_diff_median <- function(sample0,sample1){
   return(diff_median)
 }
 
-
 bootstrap_null_median <- function(sample0,com){
   resample_0 <- sample(sample0, size = length(sample0), replace = TRUE)
   null_median <- median(resample_0)-median(com)
