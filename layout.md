@@ -60,3 +60,5 @@ figures/r_nonlinear_5
 rrumphfcmn.html
 pv10pvuo8ig.md
 nvudttbamlg.html
+figures/rplot
+nsgv1sn6n3.html
