@@ -17,4 +17,5 @@ bootstrap_null_median <- function(sample0, val) {
 # calculate the average difference between the means
 mean(boot_diff_median)
 
+
 ```
