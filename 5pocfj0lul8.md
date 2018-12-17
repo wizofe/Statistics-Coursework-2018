@@ -14,5 +14,5 @@ bootstrap_null_median <- function(sample0, val) {
   return(null_median)
 }
 
-# calculac
+# calculate the average difference 
 ```
