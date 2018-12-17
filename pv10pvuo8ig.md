@@ -1,6 +1,6 @@
 ```
 #fit first degree polynomial equation:
-fit  <- lm(metabolite~enzyme)
+fit  <- lm(metabolite~x)
 fit2 <- lm(y~poly(x,2,raw=TRUE))
 fit3 <- lm(y~poly(x,3,raw=TRUE))
 fit4 <- lm(y~poly(x,4,raw=TRUE))
