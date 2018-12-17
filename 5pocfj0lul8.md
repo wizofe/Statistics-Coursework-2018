@@ -13,4 +13,6 @@ bootstrap_null_median <- function(sample0, val) {
   null_median <- median(resample0) - median(val)
   return(null_median)
 }
+
+
 ```
