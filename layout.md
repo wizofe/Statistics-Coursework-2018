@@ -48,3 +48,5 @@ hfeeu1uifio.md
 9m8tpc30frg.html
 58vvp9pdf.md
 vhv1je524p.html
+9atftj74t68.md
+hle08l80reg.html
