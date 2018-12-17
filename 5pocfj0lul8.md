@@ -12,7 +12,7 @@ for (i in 1:nboot) {
 }
 
 hist(diff.medians.boot,
-     col = "green",
+     col = "orange",
      nclass = 20,
      main = "")
 
