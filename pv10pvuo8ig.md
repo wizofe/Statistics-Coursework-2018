@@ -1,7 +1,6 @@
 ```
 #fit first degree polynomial equation:
 fit  <- lm(y~x)
-#second degree
 fit2 <- lm(y~poly(x,2,raw=TRUE))
 #third degree
 fit3 <- lm(y~poly(x,3,raw=TRUE))
