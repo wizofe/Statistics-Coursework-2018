@@ -58,3 +58,5 @@ tmhvjmtv1og.html
 figures/r_nonlinear_5
 61dm6318ijo.md
 rrumphfcmn.html
+pv10pvuo8ig.md
+nvudttbamlg.html
