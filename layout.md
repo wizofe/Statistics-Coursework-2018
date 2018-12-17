@@ -52,5 +52,6 @@ vhv1je524p.html
 hle08l80reg.html
 31rl1vt6dco.md
 ufm761u8ct8.html
+figures/rplot_enzyme_5
 figures/rplot_metabolite_5
 tmhvjmtv1og.html
