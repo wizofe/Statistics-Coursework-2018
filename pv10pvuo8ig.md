@@ -1,5 +1,6 @@
 ```
-x 
+x <- metabolite
+
 #fit first degree polynomial equation:
 fit  <- lm(y~x)
 fit2 <- lm(y~poly(x,2,raw=TRUE))
