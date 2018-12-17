@@ -21,6 +21,8 @@ dpq5q1pn2oo.md
 39bros7430g.html
 s0k89tg0rp8.md
 9257hki281o.html
+kelaokj06e.tex
+002vtgi2qf.html
 ed82vjf50o.md
 hq46urocdkg.html
 figures/rplot_wild_2
