@@ -1,2 +1,3 @@
 ```
-t1 <- data.frame(died = c(40, 42), survived = c(47, 107))```
+t1 <- data.frame(died = c(40, 42), survived = c(47, 107))
+```
