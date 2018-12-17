@@ -2,7 +2,7 @@
 #fit first degree polynomial equation:
 fit  <- lm(y~x)
 fit2 <- lm(y~poly(x,2,raw=TRUE))
-#third degree
+
 fit3 <- lm(y~poly(x,3,raw=TRUE))
 #fourth degree
 fit4 <- lm(y~poly(x,4,raw=TRUE))
