@@ -55,5 +55,6 @@ ufm761u8ct8.html
 figures/rplot_enzyme_5
 figures/rplot_metabolite_5
 tmhvjmtv1og.html
+figures/r_nonlinear_5
 61dm6318ijo.md
 rrumphfcmn.html
